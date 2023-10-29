@@ -1,0 +1,17 @@
+
+
+.item {
+  display: grid;
+  /* grid-template-rows: repeat(3, 1fr); */
+  grid-template-columns: 1fr 1fr 1fr;
+  /* padding: 10px; */
+  /* border: 1px solid rgb(212, 119, 224); */
+  /* border-radius: 5px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
+  font-size: 2em;
+  color: azure;
+  background-color: rgb(12, 35, 35);
+}
